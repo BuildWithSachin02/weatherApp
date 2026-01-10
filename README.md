@@ -1,5 +1,5 @@
 --/OUTPUT---/
-LINK: https://buildwithsachin02.github.io/weatherApp/
+--LINK: https://buildwithsachin02.github.io/weatherApp/
 
 
 # 🌤️ Weather App
